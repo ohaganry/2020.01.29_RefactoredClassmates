@@ -1,0 +1,11 @@
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/bin/Debug/netcoreapp2.1/ReClassmates.deps.json
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/bin/Debug/netcoreapp2.1/ReClassmates.runtimeconfig.json
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/bin/Debug/netcoreapp2.1/ReClassmates.runtimeconfig.dev.json
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/bin/Debug/netcoreapp2.1/ReClassmates.dll
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/bin/Debug/netcoreapp2.1/ReClassmates.pdb
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/obj/Debug/netcoreapp2.1/ReClassmates.csprojAssemblyReference.cache
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/obj/Debug/netcoreapp2.1/ReClassmates.csproj.CoreCompileInputs.cache
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/obj/Debug/netcoreapp2.1/ReClassmates.AssemblyInfoInputs.cache
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/obj/Debug/netcoreapp2.1/ReClassmates.AssemblyInfo.cs
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/obj/Debug/netcoreapp2.1/ReClassmates.dll
+/home/master/Documents/bootcamp/2020.01.29 Refactored_Classmates/ReClassmates/obj/Debug/netcoreapp2.1/ReClassmates.pdb
