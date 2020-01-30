@@ -22,8 +22,6 @@ namespace ReClassmates
             students.Add(s1);
             students.Add(s2);
             students.Add(s3);
-
-            students.Sort((x, y) => string.Compare(x.LastName, y.LastName));
             
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Welcome to the Student Portal");
@@ -50,6 +48,8 @@ namespace ReClassmates
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("Connecting to Database");
             }
+
+            students.Sort((x, y) => string.Compare(x.LastName, y.LastName));
 
             while(moreProgram)
             {
